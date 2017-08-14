@@ -1,3 +1,8 @@
+### Linear Filter
+
+For more information see [Linear Filter](https://en.wikipedia.org/wiki/Linear_filter)
+
+
 >In the order
 >
 >Original , 3x3 , 5x5 , 7x7 , 13x13 , 20x20
