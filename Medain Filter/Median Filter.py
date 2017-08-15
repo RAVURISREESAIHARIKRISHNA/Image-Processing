@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-my_img = cv2.imread("G:\\Python DB\\images\\noise face sample11.jpeg")
+my_img = cv2.imread("G:\\Python DB\\images\\noise face sample11.jpg")
 
 # img = cv2.medianBlur( src_img , Kernel_Size)
 median_my_img_3 = cv2.medianBlur(my_img , 3)
