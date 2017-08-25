@@ -25,11 +25,13 @@ Thats it.You are ready to GO !!
 
 # NOTE
 
-The Directory ```dataSet``` and the above mentioned scripts must be in the Same Directory
+The Directory ```dataSet``` , ```trainer``` directory and  the above mentioned scripts must be in the Same Directory
 
 ```dataSet``` directory is used to store the DataSets of the Users,Tampering this may not lead
 to correct results
 
+```trainer``` directory is used to store the .yml File,Tampering this may not lead
+to correct results
 
 
 ### Tested On
