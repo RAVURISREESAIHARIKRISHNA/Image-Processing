@@ -2,7 +2,7 @@
 
 This isn't an efficient way(Efficinet Way is to use ```Neural Networks```),but it can serve the purpose
 
-## Requirements for Running this
+## Requirements for Running this Program
 
 - OpenCV 2 (Doesnt Run on OpenCV3)
 
